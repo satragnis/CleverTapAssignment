@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "124818470732",
+    "firebase_url": "https://clevertap-6f474.firebaseio.com",
+    "project_id": "clevertap-6f474",
+    "storage_bucket": "clevertap-6f474.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124818470732:android:01ae5177d6694b998f41e9",
+        "android_client_info": {
+          "package_name": "com.example.satragni.clevertapassigment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124818470732-4igjeb3dge4ibqv9kp96mggdq7mnh6c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2c75Q5im_Fen7KzMo8DuSRD5yalyGlW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124818470732-4igjeb3dge4ibqv9kp96mggdq7mnh6c4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
